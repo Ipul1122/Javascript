@@ -1,0 +1,5 @@
+RENCANA JAVASCRIPT
+- Javascript Konten
+  * ES6 
+  * Framework JS => Vue.js
+- HTML, CSS , JAVASCRIPT
