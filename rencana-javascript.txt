@@ -2,4 +2,5 @@ RENCANA JAVASCRIPT
 - Javascript Konten
   * ES6 
   * Framework JS => Vue.js
+- Struktur Javascript
 - HTML, CSS , JAVASCRIPT
