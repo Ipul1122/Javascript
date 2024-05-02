@@ -4,4 +4,4 @@ RENCANA JAVASCRIPT
   * Framework JS => Vue.js
 - Struktur Javascript
 - HTML, CSS , JAVASCRIPT
- * Framework => bostrap and tailwind
+ * Framework => tailwind
